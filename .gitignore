@@ -1,6 +1,14 @@
 # Project
 data/*
 audio/*
+training/*
+testing/*
+id_to_label_file
+label_to_id_file
+test_img_file
+test_label_file
+training_img_file
+training_label_file
 
 # Pycharm
 .idea/*
